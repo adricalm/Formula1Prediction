@@ -64,9 +64,3 @@ After feature engineering and hyperparameter tuning:
 - **Winner Prediction:** XGBoost improved race-wise accuracy from **~0.46** to **~0.66**.
 - **Group Classification:** Significant improvements in correctly identifying podium, points, and no-points finishers.
 - **Model Insights:** Grid position, reliability metrics, and recent performance were among the most influential features.
-
-### Betting Analysis
-
-A hypothetical betting scenario for the 2024 season was tested, using model predictions to place wagers. The resulting strategy yielded a positive ROI of **35.79%**, indicating the potential real-world application of data-driven predictions for sports betting enthusiasts.
-
-
